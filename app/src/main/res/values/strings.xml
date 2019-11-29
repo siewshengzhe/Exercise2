@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string name="reset">reset</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="picture">picture</string>
+    <string name="bmi">bmi</string>
+    <string name="calculate">calculate</string>
+</resources>
